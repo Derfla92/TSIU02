@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\Debug\Lab2_Morse.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2_Morse.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2_Morse.map</FILE>
+  <FILE>Lab2_Morse.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HW_INIT><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>33</LINE></HW_INIT>
+  <MESSAGE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>24</LINE></MESSAGE>
+  <BTAB><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>27</LINE></BTAB>
+  <MAIN><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>38</LINE></MAIN>
+  <TRANSMIT_MESSAGE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>45</LINE></TRANSMIT_MESSAGE>
+  <TRANSMIT_MESSAGE2><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>48</LINE></TRANSMIT_MESSAGE2>
+  <TRANSMIT_RET><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>68</LINE></TRANSMIT_RET>
+  <SPACE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>110</LINE></SPACE>
+  <SEND_CHAR><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>74</LINE></SEND_CHAR>
+  <PAUSE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>117</LINE></PAUSE>
+  <LOOKUP><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>126</LINE></LOOKUP>
+  <NEXT_BIT><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>76</LINE></NEXT_BIT>
+  <SEND_CHAR_RET><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>98</LINE></SEND_CHAR_RET>
+  <DASH><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>89</LINE></DASH>
+  <BEEP_LOOP><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>91</LINE></BEEP_LOOP>
+  <WAVE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>101</LINE></WAVE>
+  <DELAY><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>151</LINE></DELAY>
+  <PAUSE_LOOP><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>119</LINE></PAUSE_LOOP>
+  <DELAY_YTTRE_LOOP><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>155</LINE></DELAY_YTTRE_LOOP>
+  <DELAY_INRE_LOOP><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab2_Morse\Lab2_Morse\main.asm</FILE><LINE>157</LINE></DELAY_INRE_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

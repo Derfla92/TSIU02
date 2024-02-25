@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\Debug\Lab3_Digur.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3_Digur.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3_Digur.map</FILE>
+  <FILE>Lab3_Digur.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HW_INIT><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>37</LINE></HW_INIT>
+  <BCD><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>74</LINE></BCD>
+  <MUX><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>125</LINE></MUX>
+  <TIME><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>28</LINE></TIME>
+  <SEG><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>29</LINE></SEG>
+  <SEGTABLE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>34</LINE></SEGTABLE>
+  <MAIN><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>69</LINE></MAIN>
+  <NEXT_TIME><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>85</LINE></NEXT_TIME>
+  <BCD_RET><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>114</LINE></BCD_RET>
+  <EVEN><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>99</LINE></EVEN>
+  <ODD><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>96</LINE></ODD>
+  <CONTINUE><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>102</LINE></CONTINUE>
+  <RESET_TIME><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>107</LINE></RESET_TIME>
+  <MUX_RET><FILE>C:\Users\AlfredSpjutMolin\Desktop\TSIU02\Lab3_Digur\Lab3_Digur\main.asm</FILE><LINE>158</LINE></MUX_RET>
+ </LABELS>
+</ASSEMBLER_INFO>

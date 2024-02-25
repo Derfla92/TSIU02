@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\Debug\Lab1_IR.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1_IR.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1_IR.map</FILE>
+  <FILE>Lab1_IR.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <idle><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>24</LINE></idle>
+  <halfdelay><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>68</LINE></halfdelay>
+  <process><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>31</LINE></process>
+  <readBits><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>37</LINE></readBits>
+  <readBitsInner><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>39</LINE></readBitsInner>
+  <fulldelay><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>55</LINE></fulldelay>
+  <readBit><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>49</LINE></readBit>
+  <readBitsDone><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>46</LINE></readBitsDone>
+  <fulldelayYttreLoop><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>58</LINE></fulldelayYttreLoop>
+  <fulldelayInreLoop><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>60</LINE></fulldelayInreLoop>
+  <halfdelayYttreLoop><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>71</LINE></halfdelayYttreLoop>
+  <halfdelayInreLoop><FILE>C:\Users\AlfredSpjutMolin\OneDrive - Linköpings universitet\TSIU02\Lab1_IR\Lab1_IR\main.asm</FILE><LINE>73</LINE></halfdelayInreLoop>
+ </LABELS>
+</ASSEMBLER_INFO>
